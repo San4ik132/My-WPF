@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFAcoeHDcE7EBEzTJYFvHnvz2qPKS0YF4o1bLBqv7ppjHr4vFfIIpIxy9s7FMzdm3pjAM37IuRTf1UAVPxOAmg==",
+  "success": true,
+  "projectFilePath": "E:\\3 kyrs\\Практика 2023\\Работы\\Практика1\\Проект\\Pract_1\\Pract_1\\Pract_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
